@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>course</key>
+		<string>IF790 Projeto de Monitoria 1</string>
+		<key>room</key>
+		<string></string>
+		<key>teacher</key>
+		<string>Valéria Times</string>
+		<key>time1</key>
+		<string>ter, 20-22</string>
+		<key>time2</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF788 Iniciação Científica 1</string>
+		<key>room</key>
+		<string>E121</string>
+		<key>teacher</key>
+		<string>Teresa Ludermir</string>
+		<key>time1</key>
+		<string>ter, 17-19</string>
+		<key>time2</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF738 Redes de Computadores</string>
+		<key>room</key>
+		<string>E124</string>
+		<key>teacher</key>
+		<string>Djamel Sadok</string>
+		<key>time1</key>
+		<string>seg, 8-10</string>
+		<key>time2</key>
+		<string>qua, 10-12</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF775 Tópicos Avançados em Algoritmos</string>
+		<key>room</key>
+		<string>D224</string>
+		<key>teacher</key>
+		<string>Katia Guimarães</string>
+		<key>time1</key>
+		<string>qua, 10-12</string>
+		<key>time2</key>
+		<string>sex, 8-10</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF778 Seminário em Informática Teórica - Bitcoin e as Tecnologias de Criptomoeda</string>
+		<key>room</key>
+		<string>E112</string>
+		<key>teacher</key>
+		<string>Ruy de Queiroz</string>
+		<key>time1</key>
+		<string>seg, 12-14</string>
+		<key>time2</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF703 Agentes Autônomos</string>
+		<key>room</key>
+		<string>E113</string>
+		<key>teacher</key>
+		<string>Patrícia Tedesco &amp; Ricardo Prudêncio</string>
+		<key>time1</key>
+		<string>seg, 13-15</string>
+		<key>time2</key>
+		<string>qua, 15-17</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF745 Sistemas Multimídia Distribuídos - Computação Ubíqua e TV Digital</string>
+		<key>room</key>
+		<string>E123</string>
+		<key>teacher</key>
+		<string>Carlos Ferraz</string>
+		<key>time1</key>
+		<string>qua, 15-17</string>
+		<key>time2</key>
+		<string>sex, 13-15</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF711 Programação Concorrente Distribuída - Middleware</string>
+		<key>room</key>
+		<string>E124</string>
+		<key>teacher</key>
+		<string>Nelson Rosa</string>
+		<key>time1</key>
+		<string>ter, 10-12</string>
+		<key>time2</key>
+		<string>qui, 8-10</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF707 Seminário em Inteligência Artificial</string>
+		<key>room</key>
+		<string>E123</string>
+		<key>teacher</key>
+		<string>Cleber Zanchettin</string>
+		<key>time1</key>
+		<string>ter, 15-17</string>
+		<key>time2</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF760 (CC) Topicos Avançados em Mídias e IF850 (EC) Processamento Gráfico (com IN1168)</string>
+		<key>room</key>
+		<string>3as- D222 e 5as-D220</string>
+		<key>teacher</key>
+		<string>Silvio Melo</string>
+		<key>time1</key>
+		<string>ter, 15-17</string>
+		<key>time2</key>
+		<string>qui, 13-15</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF699 Aprendizagem de Máquina</string>
+		<key>room</key>
+		<string>E122</string>
+		<key>teacher</key>
+		<string>George Darmiton</string>
+		<key>time1</key>
+		<string>qua, 10-12</string>
+		<key>time2</key>
+		<string>sex, 8-10</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF783 Gestão de Negócios (equivalente a AD783)</string>
+		<key>room</key>
+		<string>E113</string>
+		<key>teacher</key>
+		<string>Carina Alves</string>
+		<key>time1</key>
+		<string>qua, 10-12</string>
+		<key>time2</key>
+		<string>sex, 8-10</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF698 Seminário em Gerenciamento de Dados e Informação - Seminários em Tecnologia, Lei e Sociedade</string>
+		<key>room</key>
+		<string>E122</string>
+		<key>teacher</key>
+		<string>Ruy de Queiroz</string>
+		<key>time1</key>
+		<string>qua, 12-14</string>
+		<key>time2</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF716 Especificação de Requisitos e Validação de Sistemas</string>
+		<key>room</key>
+		<string>E122</string>
+		<key>teacher</key>
+		<string>Jaelson Castro</string>
+		<key>time1</key>
+		<string>qua, 15-17</string>
+		<key>time2</key>
+		<string>sex, 13-15</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF721 Sistemas Críticos (junto com IN1040 da Pós)</string>
+		<key>room</key>
+		<string>D218</string>
+		<key>teacher</key>
+		<string>Alexandre Mota</string>
+		<key>time1</key>
+		<string>seg, 10-12</string>
+		<key>time2</key>
+		<string>sex, 10-12</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF692 Projeto de Banco de Dados</string>
+		<key>room</key>
+		<string>E122</string>
+		<key>teacher</key>
+		<string>Fernando Fonseca</string>
+		<key>time1</key>
+		<string>seg, 10-12</string>
+		<key>time2</key>
+		<string>qua, 8-10</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF796 Mineração da Web</string>
+		<key>room</key>
+		<string>E123</string>
+		<key>teacher</key>
+		<string>Flávia Barros</string>
+		<key>time1</key>
+		<string>seg, 15-17</string>
+		<key>time2</key>
+		<string>qua, 13-15</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF706_1 Computação Bioinspirada</string>
+		<key>room</key>
+		<string>E122</string>
+		<key>teacher</key>
+		<string>Paulo Salgado</string>
+		<key>time1</key>
+		<string>ter, 10-12</string>
+		<key>time2</key>
+		<string>qui, 8-10</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF702 Redes Neurais</string>
+		<key>room</key>
+		<string>E113</string>
+		<key>teacher</key>
+		<string>Germano Vasconcelos</string>
+		<key>time1</key>
+		<string>ter, 13-15</string>
+		<key>time2</key>
+		<string>sex, 13-15</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF755 Realidade Virtual (com IN1123)</string>
+		<key>room</key>
+		<string>D222</string>
+		<key>teacher</key>
+		<string>Verônica Teichrieb</string>
+		<key>time1</key>
+		<string>ter, 13-15</string>
+		<key>time2</key>
+		<string>qui, 15-17</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF706_2 Análise e Mineração de Dados em Redes Sociais</string>
+		<key>room</key>
+		<string>E113</string>
+		<key>teacher</key>
+		<string>Ricardo Prudêncio</string>
+		<key>time1</key>
+		<string>ter, 15-17</string>
+		<key>time2</key>
+		<string>qui, 13-15</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF762 Tópicos Avançados em Interface</string>
+		<key>room</key>
+		<string>E113</string>
+		<key>teacher</key>
+		<string>Alex Sandro</string>
+		<key>time1</key>
+		<string>qua, 8-10</string>
+		<key>time2</key>
+		<string>sex, 10-12</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF720 Qualidade de Software</string>
+		<key>room</key>
+		<string>E113</string>
+		<key>teacher</key>
+		<string>Alexandre Vasconcelos</string>
+		<key>time1</key>
+		<string>qua, 13-15</string>
+		<key>time2</key>
+		<string>sex, 15-17</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF740 Sistemas de Comunicação - RFID, Redes de Sensores e Segurança em Redes Wi-Fi</string>
+		<key>room</key>
+		<string>E124</string>
+		<key>teacher</key>
+		<string>Paulo Gonçalves</string>
+		<key>time1</key>
+		<string>qua, 15-17</string>
+		<key>time2</key>
+		<string>sex, 13-15</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF773 Lógicas Não Clássicas - Teoria Axiomática dos Conjuntos</string>
+		<key>room</key>
+		<string>D218</string>
+		<key>teacher</key>
+		<string>Ruy de Queiroz</string>
+		<key>time1</key>
+		<string>seg, 8-10</string>
+		<key>time2</key>
+		<string>qua, 10-12</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF771 Teoria da Prova - Criptografia Moderna</string>
+		<key>room</key>
+		<string>A014</string>
+		<key>teacher</key>
+		<string>Ruy de Queiroz</string>
+		<key>time1</key>
+		<string>seg, 10-12</string>
+		<key>time2</key>
+		<string>qua, 8-10</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF754 Computação Musical Processamento Som</string>
+		<key>room</key>
+		<string>D220</string>
+		<key>teacher</key>
+		<string>Giordano Cabral &amp; Geber Ramalho</string>
+		<key>time1</key>
+		<string>ter, 10-12</string>
+		<key>time2</key>
+		<string>qui, 8-10</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF795 Sistemas Suporte Decisão e Mineração de Dados</string>
+		<key>room</key>
+		<string>2a. D-224 e 5a. E124</string>
+		<key>teacher</key>
+		<string>Paulo Adeodato</string>
+		<key>time1</key>
+		<string>seg, 8-10</string>
+		<key>time2</key>
+		<string>qui, 10-12</string>
+	</dict>
+	<dict>
+		<key>course</key>
+		<string>IF777 Tópicos Avançados em Matemática Computacional</string>
+		<key>room</key>
+		<string>A014</string>
+		<key>teacher</key>
+		<string>Ricardo Martins</string>
+		<key>time1</key>
+		<string>ter, 10-12</string>
+		<key>time2</key>
+		<string>qui, 8-10</string>
+	</dict>
+</array>
+</plist>
